@@ -1,0 +1,51 @@
+ /* Logo Booleaner  */
+.logo {
+    background-color: rgb(230, 52, 52);
+    background-image: url('img/pattern.png');
+    background-size: contain;
+}
+
+/* Corpo pagina e tabella  */
+
+.photos {
+    text-align: center;
+}
+
+p {
+    font-weight:bold ;
+    color: rgb(141, 5, 5);
+}
+
+#second-paragraph {
+    background-color: rgba(255, 208, 0, 0.5);
+}
+
+th {
+    background-color: rgb(230, 52, 52);
+    color: white;
+}
+
+.image {
+    display: inline-block;
+    width: 500px;
+    height: 400px;
+    background-size: contain;
+    background-repeat: no-repeat
+}  
+
+.monitor{
+    background-image: url('img/monitor.jpg');
+}
+
+.graph {
+    background-image: url('img/graph.jpg');
+}
+
+.footer-text {
+    text-align: center;
+    font-size: 40px;
+    background-color: rgba(216, 191, 216, 0.5);
+    color:lightgoldenrodyellow;
+    
+}
+
